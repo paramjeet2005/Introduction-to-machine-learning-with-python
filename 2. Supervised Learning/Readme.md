@@ -1,6 +1,4 @@
 # Supervised Machine Learning
-Supervised learning is the machine learning task of learning a function that maps an input to an output based on example input-output pairs.
-
 Supervised learning is where you have input variables (x) and an output variable (Y) and you use an algorithm to learn the mapping function from the input to the output.
 
 # KNeighbors Regressor with wave dataset
